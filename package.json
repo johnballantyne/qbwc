@@ -1,0 +1,19 @@
+{
+  "name": "qbwc",
+  "version": "0.0.1",
+  "description": "A SOAP client to interact with qbws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnballantyne/qbwc.git"
+  },
+  "author": "John Ballantyne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnballantyne/qbwc/issues"
+  },
+  "homepage": "https://github.com/johnballantyne/qbwc#readme"
+}
